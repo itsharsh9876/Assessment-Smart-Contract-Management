@@ -157,7 +157,6 @@ export default function HomePage() {
           margin: 0 auto;
           padding: 20px;
           max-width: 1000px;
-          background-color: #87CEEB; /* Sky blue */
           background-image: url('https://cdn.gencraft.com/prod/user/a0ae7548-5a92-4720-87fa-546a2865cf98/8d5c3ca7-69e0-4aee-bfe6-1773f0f8533a/image/image1_0.jpg?Expires=1718603189&Signature=J4ThUKMXmkyAtj~ucITG5xluEcMTDhb2kaA~rbfRqVYB3ejY97K32R~UNeI-S4feHQZpBupRuGppoFT-g9FawmAZ5WfPzI~UlKoT9l1K7f9lxA3h5J5NsCT-e7Zy8v6B3nbmXlqLm-Mz3mMrBkXED6n4tws5QO5Gcx9teoaYigtFzaiLTqLSVzOwBmoFOALngkwVYnejf0f1denP-uNxzhH6r~S6GSohMdMKTt-0gFAGTP4pprlxe5e~AGHntXRtoeYVAbBoQiijlNWIUlkgocwmiDKwx8tYBOxUqs8nZo-UbBiqtg~JZUvYChwV-5Q8oAvg7eLmr9gSNEoDi2GBVg__&Key-Pair-Id=K3RDDB1TZ8BHT8');
           background-size: cover;
           background-position: center;
